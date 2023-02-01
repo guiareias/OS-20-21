@@ -1,5 +1,4 @@
-# SO Project 2020-21
-## Exercise 3 base code.
+# OS Project 2020-21
 
 ## How to run
 Execute the following command:
