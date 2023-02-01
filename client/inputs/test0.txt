@@ -1,0 +1,14 @@
+# 4 creates
+c a/x/y f
+c a d
+c a/b f
+c a/x/ d
+c a/x/y f
+l a/x/y
+d a/x/y
+l a/x/y
+d a/x/y
+c a/e d
+c a/x/z f
+m a/x/z a/e
+p output0.txt
